@@ -9,8 +9,8 @@ Before compiling the files, ensure that you have `gcc` installed.
 
 #### Compiling the Files
 
-To compile the server and  client file, use the following command:
-`gcc server.c -o server`
+To compile the server and  client file, use the following command:</br>
+`gcc server.c -o server`</br>
 `gcc client.c -o client`
 
 ### Running the Programs
@@ -20,6 +20,14 @@ Make sure to follow the correct order of running the programs, starting with the
 	`./server`	
 2. Then, run the client program by executing the following command in another terminal window:
 	`./client`
+
+## Demo
+
+
+
+https://github.com/Dishant1804/socket-chat/assets/115367435/f4498ea3-2c86-48c3-94f3-660b81130cc5
+
+
 
 ## Libraries and Their Functions
 
